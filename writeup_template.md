@@ -1,6 +1,6 @@
 # Finding Lane Lines on the Road using OpenCV
 ---
-###Objectives:
+**Objectives:**
 
 The goals of this project are the following:
 
